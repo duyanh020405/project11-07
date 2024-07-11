@@ -1,0 +1,295 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "name": "Duy Anh",
+      "email": "bui09132918822@gmail.com",
+      "password": "123",
+      "confirmPassword": "123",
+      "onl": false,
+      "block": true,
+      "age": "018",
+      "phoneNumber": "973553661",
+      "cart": [],
+      "buy": []
+    },
+    {
+      "id": "4",
+      "name": "Phan Huy",
+      "email": "bui09132918@gmail.com",
+      "password": "111",
+      "confirmPassword": "111",
+      "onl": true,
+      "block": false,
+      "age": "018",
+      "phoneNumber": "09477474638",
+      "cart": [],
+      "buy": []
+    },
+    {
+      "id": "5",
+      "name": "Phan Huy",
+      "email": "bui0913291@gmail.com",
+      "password": "1",
+      "confirmPassword": "1",
+      "onl": true,
+      "block": false,
+      "age": "018",
+      "phoneNumber": "0455677544",
+      "cart": [],
+      "buy": []
+    },
+    {
+      "id": "6",
+      "name": "Bui Duy Anh",
+      "email": "duyanh@gmail.com",
+      "password": "123",
+      "confirmPassword": "123",
+      "onl": true,
+      "block": false,
+      "age": "018",
+      "phoneNumber": "0986546773",
+      "cart": [],
+      "buy": []
+    },
+    {
+      "id": "7",
+      "name": "Duy Anh",
+      "email": "bui0913291882@gmail.com",
+      "password": "123",
+      "confirmPassword": "123",
+      "onl": false,
+      "block": false,
+      "age": "19",
+      "phoneNumber": "0913291882",
+      "cart": [],
+      "buy": []
+    },
+    {
+      "id": "8",
+      "name": "Huy Hoang",
+      "email": "huyhoang1@gmail.com",
+      "password": "1",
+      "confirmPassword": "1",
+      "onl": true,
+      "block": false,
+      "age": "018",
+      "phoneNumber": "0987466655",
+      "cart": [
+        {
+          "id": "0",
+          "name": "Xe máy Honda",
+          "image": "C:\\fakepath\\Ảnh chụp màn hình 2024-07-04 081340.png",
+          "quantity": 3,
+          "type": "trên 50cc",
+          "state": "mới",
+          "price": 0,
+          "description": "Xe máy tay ga là một chiếc xe máy tương tự như xe tay ga với ghế ngồi, ván sàn và bánh xe nhỏ hoặc thấp. Bộ giao thông Hoa Kỳ định nghĩa một chiếc xe tay ga là một xe máy có nền tảng cho chân người điều khiển hoặc có chỗ để chân tích hợp và có kiến ​​trúc từng bước.",
+          "category": "Xe tay ga"
+        }
+      ],
+      "buy": [],
+      "image": "https://nb.bbend.net/media/news/2023/03/22/1408726/main/cristiano-ronaldo.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": "0",
+      "name": "Xe Vision 2011",
+      "image": "https://toquoc.mediacdn.vn/280518851207290880/2022/12/3/main-catalogue-gray-1-16700345010651084181100.jpg",
+      "quantity": 9,
+      "type": "trên 100cc",
+      "state": "mới",
+      "price": 40000000,
+      "description": "Ra mắt lần đầu vào năm 2011, Vision chính thức gia nhập dòng xe tay ga của Honda Việt Nam (HVN) và trở thành một trong những mẫu xe bán chạy ở Việt Nam nhờ thiết kế nhỏ gọn, tính ứng dụng cao và tiết kiệm nhiên liệu.\n\nGần đây, hãng xe Nhật Bản bất ngờ tung ra thị trường mẫu Honda Vision 2023 với 4 phiên bản tiêu chuẩn, cao cấp, đặc biệt và bổ sung thêm bản thể thao độc đáo. Mẫu xe tay ga có một số thay đổi, thêm tùy chọn màu mới và trang bị.Phiên bản đặc biệt của Vision năm nay sở hữu màu xanh dương nhám mới lạ. Đối với phiên bản Cao cấp và phiên bản Tiêu chuẩn các màu sắc vốn được ưa chuộng là đỏ đen, trắng đen và đen tiếp tục được trình làng.  Phiên bản đặc biệt của Vision năm nay sở hữu màu xanh dương nhám mới lạ. Đối với phiên bản Cao cấp và phiên bản Tiêu chuẩn các màu sắc vốn được ưa chuộng là đỏ đen, trắng đen và đen tiếp tục được trình làng.",
+      "category": "Xe tay ga"
+    },
+    {
+      "id": "1",
+      "name": "Xe Vision 2012",
+      "image": "https://laodongthudo.vn/stores/news_dataimages/2022/122022/02/09/in_article/21ca7c3894f4908484d767e60e474674.jpg?rt=20221202093615",
+      "quantity": 40,
+      "type": "trên 100cc",
+      "state": "mới",
+      "price": 6000000,
+      "description": "VISION thừa hưởng thiết kế mang đặc trưng phong cách của dòng xe SH mạnh mẽ cao cấp nhưng đồng thời vẫn giữ được nét thanh thoát nhờ những đường khối sắc nét, tạo sự linh hoạt trong di chuyển. Thiết kế phía trước cùng hiệu ứng ánh sáng đẹp mắt được tạo nên bởi sự kết hợp giữa đường nét thiết kế ba chiều và hệ thống đèn trước. Tất cả tạo nên một thiết kế trẻ trung, hiện đại, năng động.\n\nThiết kế mặt đồng hồ với màn hình hiển thị LED hiện đại như thế hệ trước, hệ thống ngắt động cơ tạm thời (idling stop) giúp giảm tiếng ồn, tiết kiệm nhiên liệu một cách tối ưu và bảo vệ môi trường. Đèn hiển thị xi nhan trên mặt đồng hồ VISION 2023 được cải tiến với bố trí tách rời hai bên trái và phải giúp người dùng nhanh chóng, dễ dàng quan sát khi chuyển hướng.",
+      "category": "Xe tay ga"
+    },
+    {
+      "id": "2",
+      "name": "Xe Exciter 2023",
+      "image": "https://th.bing.com/th/id/OIP.TBISPU1AY3s9irUuiV391AHaF7?rs=1&pid=ImgDetMain",
+      "quantity": 20,
+      "type": "trên 150cc",
+      "state": "mới",
+      "price": 60000000,
+      "description": "Yamaha Exciter 155 VVA 2023 được trang bị động cơ VVA 155cc, công nghệ mạnh mẽ và tiết kiệm nhiên liệu. Thiết kế thể thao, đầy mạnh mẽ, phù hợp với các bạn trẻ yêu thích tốc độ và sự năng động.",
+      "category": "Xe số"
+    },
+    {
+      "id": "3",
+      "name": "Xe Honda Wave Alpha 2023",
+      "image": "https://th.bing.com/th/id/OIP.0Pp1XTHzdMCYBvM08IOxHwHaE8?rs=1&pid=ImgDetMain",
+      "quantity": 15,
+      "type": "dưới 150cc",
+      "state": "mới",
+      "price": 35000000,
+      "description": "Honda Wave Alpha 2023 là dòng xe số phổ biến với thiết kế thời trang, tiện nghi, và hiệu suất vận hành ổn định. Đây là sự lựa chọn phù hợp cho các bạn trẻ muốn sở hữu một chiếc xe tiện lợi và tiết kiệm nhiên liệu.",
+      "category": "Xe số"
+    },
+    {
+      "id": "4",
+      "name": "Xe Honda SH 2023",
+      "image": "https://th.bing.com/th/id/OIF.Y2kBuAXGTEHxn94m21yzVw?rs=1&pid=ImgDetMain",
+      "quantity": 5,
+      "type": "trên 300cc",
+      "state": "mới",
+      "price": 150000000,
+      "description": "Honda SH 2023 là biểu tượng của sự sang trọng và đẳng cấp trong phân khúc xe tay ga cao cấp. Với thiết kế đẹp mắt, hiện đại cùng các công nghệ tiên tiến, Honda SH 2023 là sự lựa chọn hàng đầu cho những người yêu thích xe ga.",
+      "category": "Xe tay ga"
+    },
+    {
+      "id": "5",
+      "name": "Wave Alpha 2021",
+      "image": "https://cf.shopee.vn/file/b01314f9ece2d54d494f78766be50838",
+      "quantity": 15,
+      "type": "dưới 100cc",
+      "state": "mới",
+      "price": 25000000,
+      "description": "Wave Alpha 2021 là mẫu xe tay ga nhỏ gọn, tiết kiệm nhiên liệu, phù hợp với đi lại trong thành phố. Được Honda Việt Nam thiết kế với nhiều tính năng hiện đại, đảm bảo an toàn và tiện ích cao.",
+      "category": "Xe tay ga"
+    },
+    {
+      "id": "6",
+      "name": "Wave RSX 2018",
+      "image": "https://th.bing.com/th/id/OIP.cAVwzGKhCLkCkaKfmhcQrQHaEm?rs=1&pid=ImgDetMain",
+      "quantity": 8,
+      "type": "dưới 100cc",
+      "state": "mới",
+      "price": 30000000,
+      "description": "Wave RSX 2018 là mẫu xe tay ga dành cho giới trẻ, nổi bật với thiết kế thể thao và nhiều tùy chọn màu sắc sành điệu. Được trang bị động cơ mạnh mẽ và công nghệ tiết kiệm nhiên liệu.",
+      "category": "Xe tay ga"
+    },
+    {
+      "id": "7",
+      "name": "Wave Alpha 2022",
+      "image": "https://th.bing.com/th/id/OIP.nGBzVWCsJNZx_-KicpoQNQHaEL?rs=1&pid=ImgDetMain",
+      "quantity": 12,
+      "type": "dưới 100cc",
+      "state": "mới",
+      "price": 28000000,
+      "description": "Wave Alpha 2022 là phiên bản nâng cấp của dòng xe tay ga nổi tiếng Wave Alpha. Mang đến thiết kế hiện đại, động cơ mạnh mẽ và tính năng tiện ích vượt trội, phù hợp với nhu cầu đi lại hàng ngày.",
+      "category": "Xe tay ga"
+    },
+    {
+      "id": "8",
+      "name": "Honda PCX Electric",
+      "image": "https://th.bing.com/th/id/OIP.vbYkofyn7NHH_22N-fICfQHaFp?rs=1&pid=ImgDetMain",
+      "quantity": 5,
+      "type": "điện",
+      "state": "mới",
+      "price": 85000000,
+      "description": "Honda PCX Electric là mẫu xe tay ga điện cao cấp của Honda. Sử dụng động cơ điện tiên tiến, PCX Electric mang lại hiệu suất vượt trội và tính năng an toàn cao. Thiết kế đẹp mắt, tiện ích và bảo vệ môi trường.",
+      "category": "Xe điện"
+    },
+    {
+      "id": "9",
+      "name": "Yamaha Exciter RC Electric",
+      "image": "https://th.bing.com/th/id/R.1a4bf8cd09f9f514d47ab4fe0ecaa352?rik=QU5iD3RX1294Jg&riu=http%3a%2f%2fyamahaanphu.com%2fupload%2fimages%2fexciter-150cc-rc.png&ehk=PBWKW96pF4VrrL%2fSd1F5%2fYwOzQ%2bWc4D4Y4PQxFMagxI%3d&risl=&pid=ImgRaw&r=0",
+      "quantity": 3,
+      "type": "điện",
+      "state": "mới",
+      "price": 78000000,
+      "description": "Yamaha Exciter RC Electric là phiên bản điện của mẫu xe côn tay nổi tiếng Exciter. Với thiết kế thể thao và hiệu suất mạnh mẽ, đây là lựa chọn phù hợp cho người dùng yêu thích sự nhanh nhẹn và động cơ điện tiết kiệm năng lượng.",
+      "category": "Xe điện"
+    },
+    {
+      "id": "10",
+      "name": "VinFast Klara S",
+      "image": "https://th.bing.com/th/id/OIP.HRSoLngDBieqHWw4H0YiqgHaEK?rs=1&pid=ImgDetMain",
+      "quantity": 7,
+      "type": "xe máy điện",
+      "state": "mới",
+      "price": 60000000,
+      "description": "VinFast Klara S là mẫu xe máy điện thông minh của Việt Nam. Thiết kế thanh lịch, tính năng hiện đại với hệ thống điện tử tiên tiến. Klara S mang lại sự tiện lợi và an toàn cho người sử dụng trong các đô thị.",
+      "category": "Xe máy điện"
+    },
+    {
+      "id": "11",
+      "name": "VinFast Klara S+",
+      "image": "https://vn.e-scooter.co/i/vi/nf/vinfast-klara-s/full/4511194_vinfast-klara-2018-20.jpg",
+      "quantity": 10,
+      "type": "xe máy điện",
+      "state": "mới",
+      "price": 45000000,
+      "description": "Sai Gon Electric là mẫu xe máy điện dành cho thành thị, được thiết kế nhẹ nhàng và dễ điều khiển. Sử dụng pin lithium cao cấp, mang lại khả năng di chuyển lên đến 150km một lần sạc. Giải pháp tiết kiệm năng lượng và thân thiện với môi trường.",
+      "category": "Xe máy điện"
+    },
+    {
+      "id": "12",
+      "name": "BMW S1000RR",
+      "image": "https://th.bing.com/th/id/OIP.xBeEMLEvqeoTa_RV5hQbGQHaE8?rs=1&pid=ImgDetMain",
+      "quantity": 2,
+      "type": "trên 1000cc",
+      "state": "mới",
+      "price": 145000000,
+      "description": "BMW S1000RR là mẫu xe thể thao cao cấp của Đức, với công nghệ và hiệu suất vượt trội. Được trang bị động cơ mạnh mẽ, hệ thống treo và phanh hiện đại, S1000RR mang lại trải nghiệm lái xe tuyệt vời trên mọi địa hình.",
+      "category": "Xe phân khối lớn"
+    },
+    {
+      "id": "13",
+      "name": "Ducati Panigale V4",
+      "image": "https://www.ducati.com/mediaObject/1600%3A900/proportional-true?uuid=2bf11e90-f115-11eb-9e74-87c8a37c66a5&function=hardcrop&format=webp&width=1600&height=900",
+      "quantity": 3,
+      "type": "trên 1000cc",
+      "state": "mới",
+      "price": 175000000,
+      "description": "Ducati Panigale V4 là biểu tượng của sự nhanh nhẹn và sức mạnh vượt trội. Thiết kế đẹp mắt, động cơ V4 mạnh mẽ cùng công nghệ điều khiển và hệ thống treo Ducati hàng đầu thế giới.",
+      "category": "Xe phân khối lớn"
+    },
+    {
+      "id": "14",
+      "name": "Kawasaki Ninja H2",
+      "image": "https://cdn.xehay.vn/2021/06/20210628-231353_kawasaki-ninja-h2-2021.jpg",
+      "quantity": 1,
+      "type": "trên 1000cc",
+      "state": "mới",
+      "price": 280000000,
+      "description": "Kawasaki Ninja H2 là biểu tượng của sức mạnh và tốc độ tối đa. Với động cơ siêu nạp, Ninja H2 mang lại cảm giác mạnh mẽ và hiệu suất vượt trội trên mọi nẻo đường.",
+      "category": "Xe phân khối lớn"
+    },
+    {
+      "id": "15",
+      "name": "Yamaha MT-09",
+      "image": "https://www.totalmotorcycle.com/wp-content/uploads/2021/06/2021-Yamaha-MT-09.jpg",
+      "quantity": 5,
+      "type": "900cc - 1000cc",
+      "state": "mới",
+      "price": 185000000,
+      "description": "Yamaha MT-09 là mẫu naked bike thể thao với động cơ 3 xy-lanh, mang đến sức mạnh mượt mà và khả năng điều khiển linh hoạt. Thiết kế hiện đại và tính năng điện tử tiên tiến làm nổi bật sự hấp dẫn của MT-09.",
+      "category": "Xe Yamaha"
+    },
+    {
+      "id": "16",
+      "name": "Yamaha YZF-R1",
+      "image": "https://motorcycle.com.vsassets.com/blog/wp-content/uploads/2020/12/2021-Yamaha-YZF-R1-1.jpg",
+      "quantity": 3,
+      "type": "trên 1000cc",
+      "state": "mới",
+      "price": 250000000,
+      "description": "Yamaha YZF-R1 là biểu tượng của sức mạnh và công nghệ trong thế giới xe mô tô thể thao. Được trang bị động cơ mạnh mẽ, hệ thống điều khiển điện tử và khung sườn nhẹ nhưng cứng cáp, YZF-R1 là lựa chọn của những tay đua chuyên nghiệp và đam mê tốc độ.",
+      "category": "Xe Yamaha"
+    },
+    {
+      "id": "17",
+      "name": "Yamaha Tracer 900 GT",
+      "image": "https://www.motorcyclespecs.co.za/Gallery%20B/Yamaha%20Tracer%20900GT%2019%201.jpg",
+      "quantity": 2,
+      "type": "900cc - 1000cc",
+      "state": "mới",
+      "price": 215000000,
+      "description": "Yamaha Tracer 900 GT là mẫu sport-touring mang lại sự thoải mái và đa dụng trên mọi chuyến đi xa. Được trang bị động cơ mạnh mẽ, hệ thống treo điều chỉnh và tính năng tiện ích cao cấp, Tracer 900 GT là sự lựa chọn hoàn hảo cho những chuyến du lịch bằng xe mô tô.",
+      "category": "Xe Yamaha"
+    }
+  ]
+}

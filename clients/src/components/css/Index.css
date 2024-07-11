@@ -1,0 +1,149 @@
+
+
+/* Custom CSS */
+.navbar-container {
+  background-color: #343a40;
+  padding: 10px 0;
+}
+
+.profile-section {
+  color: #fff;
+}
+
+.profile-image {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
+.logout-icon {
+  font-size: 1.5rem;
+  color: #fff;
+}
+
+.shop-title {
+  font-size: 1.2rem;
+  margin-top: -2px;
+}
+
+.logo {
+  width: 40px;
+  height: 40px;
+}
+
+.marquee-container {
+  overflow: hidden;
+  white-space: nowrap;
+  margin: 20px 0;
+}
+
+.marquee-content {
+  display: inline-block;
+  animation: marquee 60s linear infinite;
+}
+
+.marquee-image {
+  width: 100%;
+  height: auto;
+  margin-right: 10px;
+}
+
+@keyframes marquee {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+.carousel {
+  position: relative;
+  width: 100%;
+  margin: 20px 0;
+  text-align: center;
+}
+
+.carousel-image {
+  width: 100%;
+  height: auto;
+}
+
+.prev-button,
+.next-button {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.prev-button {
+  left: 10px;
+}
+
+.next-button {
+  right: 10px;
+}
+
+.main-content {
+  padding: 20px;
+}
+
+.product-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+}
+
+.product-item {
+  border: 1px solid #ccc;
+  padding: 15px;
+  text-align: center;
+  transition: box-shadow 0.3s ease;
+}
+
+.product-item:hover {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.price {
+  font-weight: bold;
+  color: #007bff;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.pagination-button {
+  margin: 0 5px;
+}
+
+.pagination-button.active {
+  background-color: #007bff;
+  color: #fff;
+}
+
+.marquee-container {
+  margin: 0 auto;
+  width: 100%;
+  max-width: 1200px;
+}
+
+.text-muted {
+  color: #6c757d !important;
+}
+
+.bg-body-tertiary {
+  background-color: #f8f9fa !important;
+}
+
+.text-body-tertiary {
+  color: #6c757d !important;
+}
